@@ -31,7 +31,7 @@ body{
 }
 
 h1{
-  font-size: 30px;
+  font-size: 300%;
 }
 
 canvas{
@@ -80,6 +80,7 @@ canvas{
   border: 1.5px solid #fff;
   border-radius: 50%;
   box-shadow: 0 0 5px gray;
+  background: rgba(256, 256, 256, 0.05);
   transform:translate(115%, -55%);
 }
 
